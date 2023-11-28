@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soniammoore
 - 👀 I’m interested in LEARNING !
-- 🌱 I’m currently learning SPfx
-- 💞️ I’m looking to collaborate on M365 Solutions
+- 🌱 I’m currently learning SPfx (already gave up)
+- 💞️ I’m looking for M365 Solutions and ideas.
 - 📫 How to reach me HERE
 
 <!---
